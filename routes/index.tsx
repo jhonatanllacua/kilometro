@@ -2,6 +2,7 @@
 export default function Home() {
   return (
     <>
+    <head>
     <title>Kilometro 69</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,6 +20,7 @@ export default function Home() {
     <meta name="Autor" content="citeO" />
     <meta name="robots" content="index,follow" />
       <link rel="stylesheet" href="/style.css" />
+      </head>
         <br/>
         <br/>
         <br/>
