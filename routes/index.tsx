@@ -23,6 +23,7 @@ export default function Home() {
     <link rel="stylesheet" href="/style.css" />
       
       </head>
+<body>
         <br/>
         <br/>
         <br/>
@@ -36,6 +37,7 @@ export default function Home() {
         <br/>
         <a href="/carta"><button class="button-carta">&nbsp;&nbsp; Ver Carta ➙ &nbsp;&nbsp;</button></a>
       </div>
+</body>
     </>
   );
 }
