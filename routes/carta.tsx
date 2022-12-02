@@ -14,31 +14,31 @@ export default function Home() {
           <div class="book">
               <div class="face-front" id="portada"></div>
               <div class="face-back" id="trsf">
-                  <img class="imach1" src="/img/carta_uno.png" width="425"/>
+                  <img class="imach1" src="/img/carta_uno.png" width="425" loading="lazy"/>
               </div>
           </div>
 
           <div class="book">
               <div class="face-front">
-                  <img class="imach" src="/img/carta_dos.png" width="425" />
+                  <img class="imach" src="/img/carta_dos.png" width="425" loading="lazy"/>
               </div>
               <div class="face-back">
-                  <img class="imach1" src="/img/carta_tres.png" width="425"/>
+                  <img class="imach1" src="/img/carta_tres.png" width="425" loading="lazy"/>
                </div>
           </div>
 
           <div class="book">
               <div class="face-front">
-                  <img class="imach" src="/img/carta_cuatro.png" width="425"/>
+                  <img class="imach" src="/img/carta_cuatro.png" width="425" loading="lazy"/>
               </div>
               <div class="face-back">
-                  <img class="imach1" src="/img/carta_cinco.png" width="425"/>
+                  <img class="imach1" src="/img/carta_cinco.png" width="425" loading="lazy"/>
                </div>
           </div>
 
           <div class="book">
               <div class="face-front">
-                  <img class="imach" src="/img/carta_seis.png" width="425"/>
+                  <img class="imach" src="/img/carta_seis.png" width="425" loading="lazy"/>
               </div>
               <div class="face-back" id="portada-back">
               </div>
