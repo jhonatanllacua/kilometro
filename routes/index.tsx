@@ -18,7 +18,10 @@ export default function Home() {
     <meta name="description" content="A la hora de escribir una meta descripción, manténla entre 140 y 160 caracteres para que Google pueda mostrar tu mensaje completo. ¡No olvides incluir tu palabra clave!"/>
     <meta name="keywords" content="kilometro69 restobar comida" />
     <meta name="Autor" content="citeO" />
-  <meta name="robots" content="index,follow" />
+    <meta name="robots" content="index,follow" />
+      
+    <link rel="stylesheet" href="/style.css" />
+      
       </head>
         <br/>
         <br/>
