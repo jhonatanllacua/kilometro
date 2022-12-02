@@ -13,6 +13,7 @@ img{
 	background: green;
 	color: white;
 	padding: 15px;
+	margin-left:10px;
 }
 .button-carta:hover{
 	opacity: 0.5;
