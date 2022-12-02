@@ -4,6 +4,7 @@ export default function Home() {
     <>
             <title>Kilometro 69</title>
         <link rel="stylesheet" href="/style.css" />
+        <meta name="theme-color" content="#000"/>
     <body>
         
     <center>
