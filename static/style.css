@@ -17,3 +17,8 @@ img{
 .button-carta:hover{
 	opacity: 0.5;
 }
+@media (max-width: 600px) {
+  .Titulo{
+	  font-size:50px;
+	}
+}
