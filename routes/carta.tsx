@@ -1,10 +1,27 @@
 
 export default function Home() {
   return (
-    <>
-            <title>Kilometro 69</title>
+    <> 
+       <Head>
+        <title>Kilometro 69</title>
         <link rel="stylesheet" href="/style.css" />
         <meta name="theme-color" content="#000"/>
+         <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Kilometro 69" />
+    <meta property="og:description" content="Ofrecemos los mejores platillos de gran selección, como también bebidas unicas" />
+    <meta property="og:url" content="..." />
+    <meta property="og:site_name" content="Facemash - Who is so beauty" />
+    <meta property="og:image" content="https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
+    <meta property="og:image:width" content="640"/>
+    <meta property="og:image:height" content="300"/>
+    <meta name="description" content="A la hora de escribir una meta descripción, manténla entre 140 y 160 caracteres para que Google pueda mostrar tu mensaje completo. ¡No olvides incluir tu palabra clave!"/>
+    <meta name="keywords" content="kilometro69 restobar comida" />
+    <meta name="Autor" content="citeO" />
+  <meta name="robots" content="index,follow" />
+      </Head>
     <body>
         
     <center>
