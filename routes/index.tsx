@@ -12,7 +12,7 @@ export default function Home() {
     <meta property="og:description" content="Ofrecemos los mejores platillos de gran selección, como también bebidas unicas" />
     <meta property="og:url" content="..." />
     <meta property="og:site_name" content="Facemash - Who is so beauty" />
-    <meta property="og:image" content="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Frestaurant%2F&psig=AOvVaw3B6XGPV34ruUNXWagHwXUV&ust=1670101672004000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCgh9_r2_sCFQAAAAAdAAAAABAF" />
+    <meta property="og:image" content="https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
     <meta property="og:image:width" content="640"/>
     <meta property="og:image:height" content="300"/>
     <meta name="description" content="A la hora de escribir una meta descripción, manténla entre 140 y 160 caracteres para que Google pueda mostrar tu mensaje completo. ¡No olvides incluir tu palabra clave!"/>
