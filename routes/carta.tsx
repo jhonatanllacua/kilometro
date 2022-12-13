@@ -6,6 +6,7 @@ export default function Home() {
        <Head>
         <title>Kilometro 69</title>
         <link rel="stylesheet" href="/style.css" />
+         <link rel="shortcut icon" href="icons.ico">
         <meta name="theme-color" content="#000"/>
          <meta charset="UTF-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
