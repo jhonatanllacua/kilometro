@@ -41,7 +41,7 @@ export default function Home() {
           <div class="book">
               <div class="face-front" id="portada"></div>
               <div class="face-back" id="trsf">
-                  <img class="imach1" src="/img/promocion.jpg" width="425" loading="lazy"/>
+                  <img class="imach1" src="/img/carta_uno.jpg" width="425" loading="lazy"/>
               </div>
           </div>
         
