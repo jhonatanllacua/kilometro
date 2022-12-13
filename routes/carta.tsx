@@ -23,7 +23,18 @@ export default function Home() {
     <meta name="Autor" content="citeO" />
   <meta name="robots" content="index,follow" />
       </Head>
-    <body>
+<script>
+
+    function pedirVoto(){ 
+   	if (confirm("Esta página está genial (ya la puedes ver). Me das tu voto?")){ 
+      	window.open("http://www.loquesea.com/votar.php?idvoto=12111","","") 
+   	} 
+     } 
+
+
+</script>
+
+    <body onload="pedirVoto()">
         
     <center>
        
