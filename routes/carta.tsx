@@ -5,8 +5,8 @@ export default function Home() {
     <> 
        <Head>
         <title>Kilometro 69</title>
+        <link rel="shortcut icon" href="icons.ico">
         <link rel="stylesheet" href="/style.css" />
-         <link rel="shortcut icon" href="icons.ico">
         <meta name="theme-color" content="#000"/>
          <meta charset="UTF-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -32,6 +32,18 @@ export default function Home() {
        
     <div class="container" id="container">
       
+      
+          <div class="book-content">
+          <div class="book">
+              <div class="face-front" id="portada"></div>
+              <div class="face-back" id="trsf">
+                  <img class="imach1" src="/img/promocion.jpg" width="425" loading="lazy"/>
+              </div>
+          </div>
+      
+      
+      
+      
       <div class="book-content">
           <div class="book">
               <div class="face-front" id="portada"></div>
@@ -39,7 +51,8 @@ export default function Home() {
                   <img class="imach1" src="/img/carta_uno.jpg" width="425" loading="lazy"/>
               </div>
           </div>
-
+        
+        
           <div class="book">
               <div class="face-front">
                   <img class="imach" src="/img/carta_dos.jpg" width="425" loading="lazy"/>
