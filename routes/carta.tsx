@@ -62,6 +62,17 @@ export default function Home() {
               <div class="face-back" id="portada-back">
               </div>
           </div>
+        
+        
+         <div class="book">
+              <div class="face-front">
+                  <img class="imach" src="/img/carta_siete.jpg" width="425" loading="lazy"/>
+              </div>
+              <div class="face-back" id="portada-back">
+              </div>
+          </div>
+        
+        
       </div>
   </div>
   </center>
